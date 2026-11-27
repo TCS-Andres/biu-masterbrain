@@ -25,13 +25,15 @@ export default function Agenda() {
             href={CALENDLY_URL}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-7 inline-flex min-h-[48px] items-center justify-center gap-2 rounded-xl bg-orange px-6 font-bold text-navy transition hover:bg-yellow"
+            className="mt-7 inline-flex min-h-[48px] items-center justify-center gap-2 rounded-xl bg-orange px-6 py-3 font-bold text-navy transition hover:bg-yellow"
           >
-            {a.cta}
-            <span className="sr-only"> {t.a11y.newTab}</span>
-            <svg aria-hidden width="14" height="14" viewBox="0 0 14 14">
-              <path d="M5 2h7v7M12 2L4.5 9.5M2 5v7h7" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-            </svg>
+            <span className="text-center">
+              {a.cta}
+              <span className="sr-only"> {t.a11y.newTab}</span>
+              <svg aria-hidden width="14" height="14" viewBox="0 0 14 14" className="ml-2 inline-block align-[-1px]">
+                <path d="M5 2h7v7M12 2L4.5 9.5M2 5v7h7" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+              </svg>
+            </span>
           </a>
           <CalendlyEmbed />
         </div>

@@ -46,12 +46,12 @@ A few notes:
 
 ## Add the Spanish strings
 
-`content/es.json` currently holds the English copy so the site runs, except for the pieces that were already written in Spanish: the page title, the BIU credit line and the full prompt template.
+`content/es.json` holds a full Spanish draft in neutral Latin American Spanish (informal "tú"), using the same terms as the class deck. It still needs review by Andres' team. A few values match English on purpose: language and tool names, and the sign-off "The Creative Strategist. Built with Excellence."
 
-To add the approved Spanish copy:
+To edit or approve the Spanish copy:
 
 1. Open `content/es.json`.
-2. Replace each English value with its Spanish version. Do not rename or delete keys.
+2. Change any value you want. Do not rename or delete keys.
 3. Run `npm run check:i18n`. It fails if a key is missing in either file and tells you how many Spanish strings still match the English ones.
 4. Run `npm run check:dashes` to make sure no em dash slipped in.
 
