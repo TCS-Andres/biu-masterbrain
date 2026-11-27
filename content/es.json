@@ -1,17 +1,17 @@
 {
   "meta": {
     "title": "Identidad primero, herramientas después | Master Brain",
-    "description": "Build your professional Master Brain in about 15 minutes, then use it in Claude, ChatGPT or Gemini. A MasterClass at Aula Virtual SUJIS, Broward International University.",
-    "ogAlt": "Identity first, tools after. The professional Master Brain for using AI with judgment."
+    "description": "Construye tu Master Brain profesional en unos 15 minutos y úsalo en Claude, ChatGPT o Gemini. Una MasterClass en el Aula Virtual SUJIS de Broward International University.",
+    "ogAlt": "Identidad primero, herramientas después. El Master Brain profesional para usar la IA con criterio."
   },
   "a11y": {
-    "skip": "Skip to content",
-    "language": "Language",
-    "sections": "Page sections",
-    "menu": "Menu",
-    "closeMenu": "Close menu",
-    "newTab": "(opens in a new tab)",
-    "home": "Back to the top"
+    "skip": "Saltar al contenido",
+    "language": "Idioma",
+    "sections": "Secciones de la página",
+    "menu": "Menú",
+    "closeMenu": "Cerrar menú",
+    "newTab": "(se abre en una pestaña nueva)",
+    "home": "Volver al inicio"
   },
   "lang": {
     "es": "ES",
@@ -20,176 +20,176 @@
     "enName": "English"
   },
   "nav": {
-    "onThisPage": "On this page",
-    "que-es": "What is a Master Brain?",
-    "cuatro-partes": "The four parts",
-    "como-funciona": "How it works",
-    "builder": "Build my Master Brain",
-    "a-trabajar": "Put it to work",
-    "andres": "Who is Andres?",
-    "agenda": "Book a call"
+    "onThisPage": "En esta página",
+    "que-es": "¿Qué es un Master Brain?",
+    "cuatro-partes": "Las cuatro partes",
+    "como-funciona": "Cómo funciona",
+    "builder": "Construye tu Master Brain",
+    "a-trabajar": "Ponlo a trabajar",
+    "andres": "¿Quién es Andrés?",
+    "agenda": "Agenda una llamada"
   },
   "hero": {
-    "eyebrow": "MasterClass | Aula Virtual SUJIS | Dec 2, 2026",
-    "title": "Identity first, tools after",
-    "subhead": "The professional Master Brain for using AI with judgment.",
-    "body": "Before you ask AI to write for you, teach it who you are. Build your Master Brain in about 15 minutes, then use it in Claude, ChatGPT or Gemini.",
-    "ctaPrimary": "Build my Master Brain",
-    "ctaSecondary": "Book a 30-minute call",
-    "note": "Free. Your answers stay on your device.",
+    "eyebrow": "MasterClass | Aula Virtual SUJIS | 2 de diciembre de 2026",
+    "title": "Identidad primero, herramientas después",
+    "subhead": "El Master Brain profesional para usar la IA con criterio.",
+    "body": "Antes de pedirle a la IA que escriba por ti, enséñale quién eres. Construye tu Master Brain en unos 15 minutos y úsalo en Claude, ChatGPT o Gemini.",
+    "ctaPrimary": "Construir mi Master Brain",
+    "ctaSecondary": "Agenda una llamada de 30 minutos",
+    "note": "Gratis. Tus respuestas se quedan en tu dispositivo.",
     "credit": "Presentado en el Aula Virtual SUJIS de Broward International University."
   },
   "whatIs": {
-    "title": "What is a Master Brain?",
-    "body": "A short document that teaches AI who you are before you ask it for anything. You paste it at the start of a conversation, and every answer starts from your voice, your values and your limits.",
-    "requestLabel": "The request",
-    "request": "Write a short professional summary for my LinkedIn.",
-    "withoutLabel": "Without a Master Brain",
-    "withoutText": "Results-driven professional with a passion for excellence and a proven track record of success. Committed to delivering value and leveraging synergies in a dynamic environment.",
-    "withLabel": "With a Master Brain",
-    "withText": "I help small family businesses in Miami explain what they do in plain language. I care more about being trusted than being impressive. I won't promise what I can't deliver, and I'll always tell you the truth first.",
-    "caption": "Same tool. Same request. Different identity.",
-    "closing": "AI amplifies who you are. If you give it nothing, it amplifies the generic."
+    "title": "¿Qué es un Master Brain?",
+    "body": "Un documento corto que le enseña a la IA quién eres antes de pedirle nada. Lo pegas al inicio de una conversación y cada respuesta parte de tu voz, tus valores y tus límites.",
+    "requestLabel": "La petición",
+    "request": "Escribe un resumen profesional breve para mi LinkedIn.",
+    "withoutLabel": "Sin Master Brain",
+    "withoutText": "Profesional orientado a resultados, con pasión por la excelencia y una trayectoria comprobada de éxito. Comprometido con generar valor y aprovechar sinergias en un entorno dinámico.",
+    "withLabel": "Con Master Brain",
+    "withText": "Ayudo a pequeños negocios familiares en Miami a explicar lo que hacen en un lenguaje sencillo. Me importa más ganarme tu confianza que impresionarte. No prometo lo que no puedo cumplir, y siempre te digo la verdad primero.",
+    "caption": "La misma herramienta. La misma petición. Otra identidad.",
+    "closing": "La IA amplifica quién eres. Si no le das nada, amplifica lo genérico."
   },
   "fourParts": {
-    "title": "The four parts we build today",
-    "voiceTitle": "Voice",
-    "voiceBody": "How you sound, and what you would never say.",
-    "valuesTitle": "Values",
-    "valuesBody": "The principles you will not trade for a result.",
-    "vpTitle": "Value proposition",
-    "vpBody": "Who you help, with what, and what changes for them.",
-    "limitsTitle": "Limits",
-    "limitsBody": "What AI must never do or claim on your behalf.",
-    "note": "A full Master Brain has more parts. These four are the foundation."
+    "title": "Las cuatro partes que construimos hoy",
+    "voiceTitle": "Voz",
+    "voiceBody": "Cómo suenas y lo que jamás dirías.",
+    "valuesTitle": "Valores",
+    "valuesBody": "Los principios que no negocias por un resultado.",
+    "vpTitle": "Propuesta de valor",
+    "vpBody": "A quién ayudas, con qué y qué cambia para esa persona.",
+    "limitsTitle": "Límites",
+    "limitsBody": "Lo que la IA nunca debe hacer ni afirmar por ti.",
+    "note": "Un Master Brain completo tiene más partes. Estas cuatro son la base."
   },
   "howItWorks": {
-    "title": "How it works",
-    "step1": "Answer the questions.",
-    "step2": "Copy your prompt.",
-    "step3": "Paste it into your AI and start working."
+    "title": "Cómo funciona",
+    "step1": "Responde las preguntas.",
+    "step2": "Copia tu prompt.",
+    "step3": "Pégalo en tu IA y ponte a trabajar."
   },
   "builder": {
-    "title": "Build my Master Brain",
-    "privacy": "Your answers are saved only on this device. Do not enter passwords, ID numbers or private data about other people.",
-    "progressLabel": "Your progress",
-    "progress": "{done} of {total} required answers",
-    "roundLabel": "Round {n}",
-    "roundProgress": "{done} of {total}",
-    "optional": "Optional",
-    "stuck": "Stuck?",
-    "selectPlaceholder": "Choose one",
-    "saved": "Saved on this device",
-    "storageError": "This browser is not letting the page save. Your answers stay while this tab is open, so copy your prompt or download the PDF before you close it.",
-    "round1Title": "Your voice",
-    "round2Title": "Your values",
-    "round3Title": "Your value proposition",
-    "round4Title": "Your limits",
-    "round5Title": "Assemble",
-    "round1Stuck": "Ask a friend or classmate how they would describe the way you talk. Use their words, not the ones you think sound professional.",
-    "round2Stuck": "Think of a time you said no, admitted a mistake or gave credit. What were you protecting?",
-    "round3Stuck": "If you are a student or between jobs, write who you want to help next. A direction counts.",
-    "round4Stuck": "Think about what would embarrass you if a recruiter, professor or client found it in your work."
+    "title": "Construye tu Master Brain",
+    "privacy": "Tus respuestas se guardan solo en este dispositivo. No escribas contraseñas, números de identificación ni datos privados de otras personas.",
+    "progressLabel": "Tu avance",
+    "progress": "{done} de {total} respuestas obligatorias",
+    "roundLabel": "Ronda {n}",
+    "roundProgress": "{done} de {total}",
+    "optional": "Opcional",
+    "stuck": "¿No sabes qué escribir?",
+    "selectPlaceholder": "Elige una opción",
+    "saved": "Guardado en este dispositivo",
+    "storageError": "Este navegador no deja que la página guarde tus respuestas. Se mantienen mientras esta pestaña siga abierta, así que copia tu prompt o descarga el PDF antes de cerrarla.",
+    "round1Title": "Tu voz",
+    "round2Title": "Tus valores",
+    "round3Title": "Tu propuesta de valor",
+    "round4Title": "Tus límites",
+    "round5Title": "Arma tu Master Brain",
+    "round1Stuck": "Pregúntale a un amigo o compañero de clase cómo describiría tu forma de hablar. Usa sus palabras, no las que crees que suenan profesionales.",
+    "round2Stuck": "Piensa en una vez que dijiste que no, admitiste un error o le diste crédito a alguien. ¿Qué estabas protegiendo?",
+    "round3Stuck": "Si estás estudiando o entre trabajos, escribe a quién quieres ayudar después. Una dirección también cuenta.",
+    "round4Stuck": "Piensa en qué te daría vergüenza si un reclutador, un profesor o un cliente lo encontrara en tu trabajo."
   },
   "fields": {
     "voice_words": {
-      "label": "Three words other people use to describe how you speak or write.",
-      "placeholder": "warm, direct, curious"
+      "label": "Tres palabras que otras personas usan para describir cómo hablas o escribes.",
+      "placeholder": "cálido, directo, curioso"
     },
     "voice_never": {
-      "label": "One phrase you would never say.",
-      "placeholder": "Let's circle back and leverage our synergies"
+      "label": "Una frase que jamás dirías.",
+      "placeholder": "Hagamos sinergia para apalancar resultados"
     },
     "voice_audience": {
-      "label": "Who are you usually talking to?",
-      "placeholder": "recruiters, classmates, clients"
+      "label": "¿Con quién hablas normalmente?",
+      "placeholder": "reclutadores, compañeros de clase, clientes"
     },
     "voice_sample": {
-      "label": "Paste a sentence or two you wrote that sounds exactly like you.",
+      "label": "Pega una o dos frases que hayas escrito y que suenen exactamente como tú.",
       "placeholder": ""
     },
     "values_principles": {
-      "label": "Two principles you will not trade for a result.",
-      "placeholder": "Honesty before speed. I give credit to the people who helped me."
+      "label": "Dos principios que no negocias por un resultado.",
+      "placeholder": "La honestidad antes que la rapidez. Le doy crédito a quienes me ayudaron."
     },
     "values_trust": {
-      "label": "What do you want people to trust you for?",
+      "label": "¿En qué quieres que la gente confíe cuando piense en ti?",
       "placeholder": ""
     },
     "values_story": {
-      "label": "A moment when you chose the harder, honest option.",
+      "label": "Un momento en que elegiste la opción más difícil y honesta.",
       "placeholder": ""
     },
     "vp_who": {
-      "label": "I help... (who)",
-      "placeholder": "small business owners in my community"
+      "label": "Ayudo a... (a quién)",
+      "placeholder": "dueños de pequeños negocios de mi comunidad"
     },
     "vp_what": {
-      "label": "...do... (what)",
-      "placeholder": "explain their work clearly online"
+      "label": "...a... (qué)",
+      "placeholder": "explicar su trabajo con claridad en internet"
     },
     "vp_outcome": {
-      "label": "...so that... (outcome)",
-      "placeholder": "more people understand and trust them"
+      "label": "...para que... (resultado)",
+      "placeholder": "más personas los entiendan y confíen en ellos"
     },
     "vp_proof": {
-      "label": "One real result, project or experience that backs it up. Only what is true.",
+      "label": "Un resultado, proyecto o experiencia real que lo respalde. Solo lo que sea cierto.",
       "placeholder": ""
     },
     "limits_never": {
-      "label": "Three things AI must never do or claim on your behalf.",
-      "placeholder": "Invent experience. Exaggerate numbers. Write in a tone I would not use."
+      "label": "Tres cosas que la IA nunca debe hacer ni afirmar por ti.",
+      "placeholder": "Inventar experiencia. Exagerar cifras. Escribir con un tono que yo no usaría."
     },
     "limits_ask": {
-      "label": "Facts AI must always ask you about before writing.",
-      "placeholder": "dates, job titles, results, names"
+      "label": "Datos sobre los que la IA siempre debe preguntarte antes de escribir.",
+      "placeholder": "fechas, cargos, resultados, nombres"
     },
     "limits_disclosure": {
-      "label": "How do you want to handle AI use in your work?",
+      "label": "¿Cómo quieres manejar el uso de la IA en tu trabajo?",
       "placeholder": "",
-      "always": "Always say AI helped",
-      "asked": "Say it when asked",
-      "caseByCase": "Decide case by case"
+      "always": "Siempre digo que la IA me ayudó",
+      "asked": "Lo digo cuando me preguntan",
+      "caseByCase": "Lo decido caso por caso"
     }
   },
   "assemble": {
-    "previewLabel": "Your Master Brain prompt",
-    "previewEmpty": "Your prompt appears here as you answer the rounds above.",
-    "copy": "Copy my prompt",
-    "copied": "Copied",
-    "copiedAnnounce": "Copied. Your prompt is on your clipboard.",
-    "copyFailed": "Copy did not work on this device. Select the text in the preview and copy it by hand.",
-    "locked": "Answer the required questions in Round 1 and Round 4 to unlock your prompt.",
-    "pdf": "Download my answers (PDF)",
-    "pdfWorking": "Preparing your PDF",
-    "pdfFailed": "The PDF could not be created on this device. Try again, or use your browser's print option.",
-    "clear": "Clear all answers",
-    "cleared": "All answers cleared.",
-    "tabsLabel": "Where to use your prompt",
-    "step1": "Open a new chat.",
-    "step2": "Paste your prompt and send it.",
-    "step3": "Wait for the reply 'Master Brain loaded', then ask for what you need.",
+    "previewLabel": "Tu prompt de Master Brain",
+    "previewEmpty": "Tu prompt aparece aquí a medida que respondes las rondas de arriba.",
+    "copy": "Copiar mi prompt",
+    "copied": "Copiado",
+    "copiedAnnounce": "Copiado. Tu prompt está en el portapapeles.",
+    "copyFailed": "No se pudo copiar en este dispositivo. Selecciona el texto de la vista previa y cópialo a mano.",
+    "locked": "Responde las preguntas obligatorias de la Ronda 1 y la Ronda 4 para desbloquear tu prompt.",
+    "pdf": "Descargar mis respuestas (PDF)",
+    "pdfWorking": "Preparando tu PDF",
+    "pdfFailed": "No se pudo crear el PDF en este dispositivo. Vuelve a intentarlo o usa la opción de imprimir de tu navegador.",
+    "clear": "Borrar todas las respuestas",
+    "cleared": "Se borraron todas las respuestas.",
+    "tabsLabel": "Dónde usar tu prompt",
+    "step1": "Abre un chat nuevo.",
+    "step2": "Pega tu prompt y envíalo.",
+    "step3": "Espera la respuesta «Master Brain cargado» y luego pide lo que necesites.",
     "claude": "Claude",
     "chatgpt": "ChatGPT",
     "gemini": "Gemini",
-    "claudeTip": "In Claude you can save it in a Project.",
-    "chatgptTip": "In ChatGPT you can also save it in Custom Instructions or a Project.",
-    "geminiTip": "In Gemini you can save it in a Gem."
+    "claudeTip": "En Claude puedes guardarlo en un Proyecto.",
+    "chatgptTip": "En ChatGPT también puedes guardarlo en las Instrucciones personalizadas o en un Proyecto.",
+    "geminiTip": "En Gemini puedes guardarlo en un Gem."
   },
   "clearDialog": {
-    "title": "Clear all answers?",
-    "body": "This deletes every answer saved on this device. It cannot be undone.",
-    "confirm": "Yes, clear everything",
-    "cancel": "Keep my answers"
+    "title": "¿Borrar todas las respuestas?",
+    "body": "Esto elimina todas las respuestas guardadas en este dispositivo. No se puede deshacer.",
+    "confirm": "Sí, borrar todo",
+    "cancel": "Conservar mis respuestas"
   },
   "pdf": {
-    "title": "My Master Brain",
-    "subtitle": "Identity first, tools after",
-    "event": "MasterClass | Aula Virtual SUJIS | Dec 2, 2026",
-    "created": "Created on {date}",
+    "title": "Mi Master Brain",
+    "subtitle": "Identidad primero, herramientas después",
+    "event": "MasterClass | Aula Virtual SUJIS | 2 de diciembre de 2026",
+    "created": "Creado el {date}",
     "footer": "The Creative Strategist. Built with Excellence.",
-    "page": "Page {n} of {total}",
-    "fileName": "my-master-brain.pdf"
+    "page": "Página {n} de {total}",
+    "fileName": "mi-master-brain.pdf"
   },
   "prompt": {
     "intro": "Eres mi asistente personal de IA. Antes de ayudarme con cualquier cosa, lee mi Master Brain a continuación y tómalo como la fuente de verdad sobre quién soy. Todo lo que escribas para mí debe salir de ahí.",
@@ -224,46 +224,46 @@
     "closing": "Responde solo con: \"Master Brain cargado. ¿En qué quieres trabajar?\""
   },
   "work": {
-    "title": "Put it to work",
-    "intro": "Paste your Master Brain first. Then use any of these. Replace the text in [brackets].",
-    "copy": "Copy prompt",
-    "copied": "Copied",
-    "copiedAnnounce": "Copied. The prompt is on your clipboard.",
-    "copyFailed": "Copy did not work. Select the text and copy it by hand.",
-    "linkedinTitle": "LinkedIn summary",
-    "linkedinPrompt": "Using my Master Brain, write three versions of my LinkedIn summary, each under 120 words. Use only the facts I give here: [paste your real experience]. Do not invent anything. Mark anything you are unsure about with [CHECK].",
-    "coverTitle": "Cover letter",
-    "coverPrompt": "Using my Master Brain, draft a cover letter for this role: [paste job description]. Use only my real experience: [paste]. Keep my voice. Ask me questions before writing if you need facts.",
-    "interviewTitle": "Interview practice",
-    "interviewPrompt": "Act as an interviewer for [role]. Ask me one question at a time. After each answer, tell me what sounded like me and what sounded generic. Never suggest I claim experience I do not have.",
-    "postTitle": "Personal brand post",
-    "postPrompt": "Using my Master Brain, write a short post about [topic] in my voice. Give two options. Do not exaggerate. Do not use buzzwords I would never say.",
-    "checkTitle": "Authenticity check",
-    "checkPrompt": "Read the text below against my Master Brain. List every sentence that does not sound like me and every claim I would need to verify. Then suggest edits that keep my voice. Text: [paste].",
-    "auditTitle": "Five-question AI audit",
-    "auditPrompt": "Audit the AI-written text below with these five questions and answer each one briefly. 1. Whose voice is this? 2. What is it based on? 3. What could be wrong or biased? 4. What should I disclose? 5. Who is accountable? End with a list of facts I must verify before using it. Text: [paste].",
-    "note": "AI helps you say the truth better. It should never invent it."
+    "title": "Ponlo a trabajar",
+    "intro": "Primero pega tu Master Brain. Luego usa cualquiera de estos. Reemplaza el texto entre [corchetes].",
+    "copy": "Copiar prompt",
+    "copied": "Copiado",
+    "copiedAnnounce": "Copiado. El prompt está en tu portapapeles.",
+    "copyFailed": "No se pudo copiar. Selecciona el texto y cópialo a mano.",
+    "linkedinTitle": "Resumen de LinkedIn",
+    "linkedinPrompt": "Usando mi Master Brain, escribe tres versiones del resumen de mi perfil de LinkedIn, cada una de menos de 120 palabras. Usa solo los datos que te doy aquí: [pega tu experiencia real]. No inventes nada. Marca con [VERIFICAR] todo lo que no tengas claro.",
+    "coverTitle": "Carta de presentación",
+    "coverPrompt": "Usando mi Master Brain, escribe un borrador de carta de presentación para este puesto: [pega la descripción del puesto]. Usa solo mi experiencia real: [pégala aquí]. Mantén mi voz. Si necesitas datos, hazme preguntas antes de escribir.",
+    "interviewTitle": "Práctica de entrevista",
+    "interviewPrompt": "Actúa como entrevistador para el puesto de [puesto]. Hazme una pregunta a la vez. Después de cada respuesta, dime qué sonó como yo y qué sonó genérico. Nunca me sugieras afirmar experiencia que no tengo.",
+    "postTitle": "Publicación para tu marca personal",
+    "postPrompt": "Usando mi Master Brain, escribe una publicación corta sobre [tema] con mi voz. Dame dos opciones. No exageres. No uses palabras de moda que yo nunca diría.",
+    "checkTitle": "Prueba de autenticidad",
+    "checkPrompt": "Lee el texto de abajo y compáralo con mi Master Brain. Haz una lista de cada frase que no suene como yo y de cada afirmación que yo tendría que verificar. Luego sugiere cambios que mantengan mi voz. Texto: [pégalo aquí].",
+    "auditTitle": "Auditoría de IA en cinco preguntas",
+    "auditPrompt": "Audita el texto escrito con IA que está abajo con estas cinco preguntas y responde cada una brevemente. 1. ¿De quién es esta voz? 2. ¿En qué se basa? 3. ¿Qué podría estar mal o sesgado? 4. ¿Qué debo declarar? 5. ¿Quién responde? Termina con una lista de datos que debo verificar antes de usarlo. Texto: [pégalo aquí].",
+    "note": "La IA te ayuda a decir mejor la verdad. Nunca debe inventarla."
   },
   "about": {
-    "title": "Who is Andres?",
-    "photoAlt": "Andres Diaz smiling in a dark blazer.",
-    "bio": "Andres Diaz is the founder of The Creative Strategist, a consultancy in South Florida where he works as a fractional CMO and AI specialist. He helps businesses and professionals use AI with their own voice, values and limits, starting from identity before tools.",
-    "websiteLabel": "Website",
-    "emailLabel": "Email"
+    "title": "¿Quién es Andrés?",
+    "photoAlt": "Andrés Diaz sonriendo con un blazer oscuro.",
+    "bio": "Andrés Diaz es el fundador de The Creative Strategist, una consultora en el sur de Florida donde trabaja como CMO fraccional y especialista en IA. Ayuda a negocios y profesionales a usar la IA con su propia voz, sus valores y sus límites, empezando por la identidad antes que las herramientas.",
+    "websiteLabel": "Sitio web",
+    "emailLabel": "Correo"
   },
   "agenda": {
-    "title": "Want to talk it through?",
-    "body": "Book a free 30-minute conversation. Bring your Master Brain draft and your questions.",
-    "cta": "Book a 30-minute call",
-    "widgetTitle": "Calendly scheduling calendar",
-    "widgetLoading": "Loading the calendar",
-    "widgetFailed": "The calendar could not load here. Use the button above to book your call."
+    "title": "¿Quieres conversarlo?",
+    "body": "Agenda una conversación gratuita de 30 minutos. Trae el borrador de tu Master Brain y tus preguntas.",
+    "cta": "Agenda una llamada de 30 minutos",
+    "widgetTitle": "Calendario de citas de Calendly",
+    "widgetLoading": "Cargando el calendario",
+    "widgetFailed": "El calendario no pudo cargar aquí. Usa el botón de arriba para agendar tu llamada."
   },
   "footer": {
-    "thanks": "Thank you, Aula Virtual SUJIS and Broward International University, for the invitation.",
+    "thanks": "Gracias, Aula Virtual SUJIS y Broward International University, por la invitación.",
     "signoff": "The Creative Strategist. Built with Excellence.",
-    "website": "Website",
-    "email": "Email",
-    "calendly": "Book a call"
+    "website": "Sitio web",
+    "email": "Correo",
+    "calendly": "Agenda una llamada"
   }
 }

@@ -48,11 +48,13 @@ export default function Hero() {
               rel="noopener noreferrer"
               className="inline-flex min-h-[48px] items-center justify-center gap-2 rounded-xl border border-white/35 px-6 py-3 text-base font-medium text-white transition hover:border-orange hover:text-orange"
             >
-              {t.hero.ctaSecondary}
-              <span className="sr-only"> {t.a11y.newTab}</span>
-              <svg aria-hidden width="14" height="14" viewBox="0 0 14 14">
-                <path d="M5 2h7v7M12 2L4.5 9.5M2 5v7h7" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-              </svg>
+              <span className="text-center">
+                {t.hero.ctaSecondary}
+                <span className="sr-only"> {t.a11y.newTab}</span>
+                <svg aria-hidden width="14" height="14" viewBox="0 0 14 14" className="ml-2 inline-block align-[-1px]">
+                  <path d="M5 2h7v7M12 2L4.5 9.5M2 5v7h7" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+                </svg>
+              </span>
             </a>
           </div>
 
