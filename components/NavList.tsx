@@ -60,7 +60,7 @@ export function NavLinks({
             >
               <span
                 aria-hidden
-                className={"shrink-0 text-[11px] font-bold tabular-nums " + (on ? (dark ? "text-orange" : "text-navy") : dark ? "text-white/50" : "text-muted")}
+                className={"shrink-0 text-[11px] font-bold tabular-nums " + (on ? (dark ? "text-orange" : "text-navy") : dark ? "text-white/60" : "text-ink")}
               >
                 {it.num}
               </span>
