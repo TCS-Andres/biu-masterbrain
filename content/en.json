@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "title": "Identidad primero, herramientas después | Master Brain",
+    "description": "Build your professional Master Brain in about 15 minutes, then use it in Claude, ChatGPT or Gemini. A MasterClass at Aula Virtual SUJIS, Broward International University.",
+    "ogAlt": "Identity first, tools after. The professional Master Brain for using AI with judgment."
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "language": "Language",
+    "sections": "Page sections",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "newTab": "(opens in a new tab)",
+    "home": "Back to the top"
+  },
+  "lang": {
+    "es": "ES",
+    "en": "EN",
+    "esName": "Español",
+    "enName": "English"
+  },
+  "nav": {
+    "onThisPage": "On this page",
+    "que-es": "What is a Master Brain?",
+    "cuatro-partes": "The four parts",
+    "como-funciona": "How it works",
+    "builder": "Build my Master Brain",
+    "a-trabajar": "Put it to work",
+    "andres": "Who is Andres?",
+    "agenda": "Book a call"
+  },
+  "hero": {
+    "eyebrow": "MasterClass | Aula Virtual SUJIS | Dec 2, 2026",
+    "title": "Identity first, tools after",
+    "subhead": "The professional Master Brain for using AI with judgment.",
+    "body": "Before you ask AI to write for you, teach it who you are. Build your Master Brain in about 15 minutes, then use it in Claude, ChatGPT or Gemini.",
+    "ctaPrimary": "Build my Master Brain",
+    "ctaSecondary": "Book a 30-minute call",
+    "note": "Free. Your answers stay on your device.",
+    "credit": "Presented at Aula Virtual SUJIS, Broward International University."
+  },
+  "whatIs": {
+    "title": "What is a Master Brain?",
+    "body": "A short document that teaches AI who you are before you ask it for anything. You paste it at the start of a conversation, and every answer starts from your voice, your values and your limits.",
+    "requestLabel": "The request",
+    "request": "Write a short professional summary for my LinkedIn.",
+    "withoutLabel": "Without a Master Brain",
+    "withoutText": "Results-driven professional with a passion for excellence and a proven track record of success. Committed to delivering value and leveraging synergies in a dynamic environment.",
+    "withLabel": "With a Master Brain",
+    "withText": "I help small family businesses in Miami explain what they do in plain language. I care more about being trusted than being impressive. I won't promise what I can't deliver, and I'll always tell you the truth first.",
+    "caption": "Same tool. Same request. Different identity.",
+    "closing": "AI amplifies who you are. If you give it nothing, it amplifies the generic."
+  },
+  "fourParts": {
+    "title": "The four parts we build today",
+    "voiceTitle": "Voice",
+    "voiceBody": "How you sound, and what you would never say.",
+    "valuesTitle": "Values",
+    "valuesBody": "The principles you will not trade for a result.",
+    "vpTitle": "Value proposition",
+    "vpBody": "Who you help, with what, and what changes for them.",
+    "limitsTitle": "Limits",
+    "limitsBody": "What AI must never do or claim on your behalf.",
+    "note": "A full Master Brain has more parts. These four are the foundation."
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "step1": "Answer the questions.",
+    "step2": "Copy your prompt.",
+    "step3": "Paste it into your AI and start working."
+  },
+  "builder": {
+    "title": "Build my Master Brain",
+    "privacy": "Your answers are saved only on this device. Do not enter passwords, ID numbers or private data about other people.",
+    "progressLabel": "Your progress",
+    "progress": "{done} of {total} required answers",
+    "roundLabel": "Round {n}",
+    "roundProgress": "{done} of {total}",
+    "optional": "Optional",
+    "stuck": "Stuck?",
+    "selectPlaceholder": "Choose one",
+    "saved": "Saved on this device",
+    "storageError": "This browser is not letting the page save. Your answers stay while this tab is open, so copy your prompt or download the PDF before you close it.",
+    "round1Title": "Your voice",
+    "round2Title": "Your values",
+    "round3Title": "Your value proposition",
+    "round4Title": "Your limits",
+    "round5Title": "Assemble",
+    "round1Stuck": "Ask a friend or classmate how they would describe the way you talk. Use their words, not the ones you think sound professional.",
+    "round2Stuck": "Think of a time you said no, admitted a mistake or gave credit. What were you protecting?",
+    "round3Stuck": "If you are a student or between jobs, write who you want to help next. A direction counts.",
+    "round4Stuck": "Think about what would embarrass you if a recruiter, professor or client found it in your work."
+  },
+  "fields": {
+    "voice_words": {
+      "label": "Three words other people use to describe how you speak or write.",
+      "placeholder": "warm, direct, curious"
+    },
+    "voice_never": {
+      "label": "One phrase you would never say.",
+      "placeholder": "Let's circle back and leverage our synergies"
+    },
+    "voice_audience": {
+      "label": "Who are you usually talking to?",
+      "placeholder": "recruiters, classmates, clients"
+    },
+    "voice_sample": {
+      "label": "Paste a sentence or two you wrote that sounds exactly like you.",
+      "placeholder": ""
+    },
+    "values_principles": {
+      "label": "Two principles you will not trade for a result.",
+      "placeholder": "Honesty before speed. I give credit to the people who helped me."
+    },
+    "values_trust": {
+      "label": "What do you want people to trust you for?",
+      "placeholder": ""
+    },
+    "values_story": {
+      "label": "A moment when you chose the harder, honest option.",
+      "placeholder": ""
+    },
+    "vp_who": {
+      "label": "I help... (who)",
+      "placeholder": "small business owners in my community"
+    },
+    "vp_what": {
+      "label": "...do... (what)",
+      "placeholder": "explain their work clearly online"
+    },
+    "vp_outcome": {
+      "label": "...so that... (outcome)",
+      "placeholder": "more people understand and trust them"
+    },
+    "vp_proof": {
+      "label": "One real result, project or experience that backs it up. Only what is true.",
+      "placeholder": ""
+    },
+    "limits_never": {
+      "label": "Three things AI must never do or claim on your behalf.",
+      "placeholder": "Invent experience. Exaggerate numbers. Write in a tone I would not use."
+    },
+    "limits_ask": {
+      "label": "Facts AI must always ask you about before writing.",
+      "placeholder": "dates, job titles, results, names"
+    },
+    "limits_disclosure": {
+      "label": "How do you want to handle AI use in your work?",
+      "placeholder": "",
+      "always": "Always say AI helped",
+      "asked": "Say it when asked",
+      "caseByCase": "Decide case by case"
+    }
+  },
+  "assemble": {
+    "previewLabel": "Your Master Brain prompt",
+    "previewEmpty": "Your prompt appears here as you answer the rounds above.",
+    "copy": "Copy my prompt",
+    "copied": "Copied",
+    "copiedAnnounce": "Copied. Your prompt is on your clipboard.",
+    "copyFailed": "Copy did not work on this device. Select the text in the preview and copy it by hand.",
+    "locked": "Answer the required questions in Round 1 and Round 4 to unlock your prompt.",
+    "pdf": "Download my answers (PDF)",
+    "pdfWorking": "Preparing your PDF",
+    "pdfFailed": "The PDF could not be created on this device. Try again, or use your browser's print option.",
+    "clear": "Clear all answers",
+    "cleared": "All answers cleared.",
+    "tabsLabel": "Where to use your prompt",
+    "step1": "Open a new chat.",
+    "step2": "Paste your prompt and send it.",
+    "step3": "Wait for the reply 'Master Brain loaded', then ask for what you need.",
+    "claude": "Claude",
+    "chatgpt": "ChatGPT",
+    "gemini": "Gemini",
+    "claudeTip": "In Claude you can save it in a Project.",
+    "chatgptTip": "In ChatGPT you can also save it in Custom Instructions or a Project.",
+    "geminiTip": "In Gemini you can save it in a Gem."
+  },
+  "clearDialog": {
+    "title": "Clear all answers?",
+    "body": "This deletes every answer saved on this device. It cannot be undone.",
+    "confirm": "Yes, clear everything",
+    "cancel": "Keep my answers"
+  },
+  "pdf": {
+    "title": "My Master Brain",
+    "subtitle": "Identity first, tools after",
+    "event": "MasterClass | Aula Virtual SUJIS | Dec 2, 2026",
+    "created": "Created on {date}",
+    "footer": "The Creative Strategist. Built with Excellence.",
+    "page": "Page {n} of {total}",
+    "fileName": "my-master-brain.pdf"
+  },
+  "prompt": {
+    "intro": "You are my personal AI assistant. Before you help me with anything, read my Master Brain below and treat it as the source of truth about who I am. Everything you write for me must come from it.",
+    "voiceHeading": "MY VOICE",
+    "voice_words": "Words people use to describe how I speak or write",
+    "voice_never": "A phrase I would never say",
+    "voice_audience": "I usually speak to",
+    "voice_sample": "A sample that sounds like me",
+    "valuesHeading": "MY VALUES",
+    "values_principles": "Principles I will not trade for a result",
+    "values_trust": "What I want people to trust me for",
+    "values_story": "A moment that shows my values",
+    "vpHeading": "MY VALUE PROPOSITION",
+    "vpSentence": "I help {vp_who} {vp_what} so that {vp_outcome}.",
+    "vp_who": "Who I help",
+    "vp_what": "What I help them do",
+    "vp_outcome": "What changes for them",
+    "vp_proof": "Proof",
+    "limitsHeading": "MY LIMITS",
+    "limits_never": "Things you must never do or claim on my behalf",
+    "limits_ask": "Facts you must always ask me about before writing",
+    "limits_disclosure": "How I handle AI use in my work",
+    "disclosureAlways": "Always say AI helped",
+    "disclosureAsked": "Say it when asked",
+    "disclosureCaseByCase": "Decide case by case",
+    "rulesHeading": "RULES",
+    "rule1": "Write in my voice, not in generic professional language.",
+    "rule2": "Never invent experience, credentials, numbers, dates or quotes. If you need a fact, ask me.",
+    "rule3": "Stay inside my limits at all times.",
+    "rule4": "When you are unsure, ask me first.",
+    "rule5": "At the end of anything you write, list the claims I should verify.",
+    "closing": "Reply only with: \"Master Brain loaded. What would you like to work on?\""
+  },
+  "work": {
+    "title": "Put it to work",
+    "intro": "Paste your Master Brain first. Then use any of these. Replace the text in [brackets].",
+    "copy": "Copy prompt",
+    "copied": "Copied",
+    "copiedAnnounce": "Copied. The prompt is on your clipboard.",
+    "copyFailed": "Copy did not work. Select the text and copy it by hand.",
+    "linkedinTitle": "LinkedIn summary",
+    "linkedinPrompt": "Using my Master Brain, write three versions of my LinkedIn summary, each under 120 words. Use only the facts I give here: [paste your real experience]. Do not invent anything. Mark anything you are unsure about with [CHECK].",
+    "coverTitle": "Cover letter",
+    "coverPrompt": "Using my Master Brain, draft a cover letter for this role: [paste job description]. Use only my real experience: [paste]. Keep my voice. Ask me questions before writing if you need facts.",
+    "interviewTitle": "Interview practice",
+    "interviewPrompt": "Act as an interviewer for [role]. Ask me one question at a time. After each answer, tell me what sounded like me and what sounded generic. Never suggest I claim experience I do not have.",
+    "postTitle": "Personal brand post",
+    "postPrompt": "Using my Master Brain, write a short post about [topic] in my voice. Give two options. Do not exaggerate. Do not use buzzwords I would never say.",
+    "checkTitle": "Authenticity check",
+    "checkPrompt": "Read the text below against my Master Brain. List every sentence that does not sound like me and every claim I would need to verify. Then suggest edits that keep my voice. Text: [paste].",
+    "auditTitle": "Five-question AI audit",
+    "auditPrompt": "Audit the AI-written text below with these five questions and answer each one briefly. 1. Whose voice is this? 2. What is it based on? 3. What could be wrong or biased? 4. What should I disclose? 5. Who is accountable? End with a list of facts I must verify before using it. Text: [paste].",
+    "note": "AI helps you say the truth better. It should never invent it."
+  },
+  "about": {
+    "title": "Who is Andres?",
+    "photoAlt": "Andres Diaz smiling in a dark blazer.",
+    "bio": "Andres Diaz is the founder of The Creative Strategist, a consultancy in South Florida where he works as a fractional CMO and AI specialist. He helps businesses and professionals use AI with their own voice, values and limits, starting from identity before tools.",
+    "websiteLabel": "Website",
+    "emailLabel": "Email"
+  },
+  "agenda": {
+    "title": "Want to talk it through?",
+    "body": "Book a free 30-minute conversation. Bring your Master Brain draft and your questions.",
+    "cta": "Book a 30-minute call",
+    "widgetTitle": "Calendly scheduling calendar",
+    "widgetLoading": "Loading the calendar",
+    "widgetFailed": "The calendar could not load here. Use the button above to book your call."
+  },
+  "footer": {
+    "thanks": "Thank you, Aula Virtual SUJIS and Broward International University, for the invitation.",
+    "signoff": "The Creative Strategist. Built with Excellence.",
+    "website": "Website",
+    "email": "Email",
+    "calendly": "Book a call"
+  }
+}
