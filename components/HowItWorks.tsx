@@ -14,7 +14,7 @@ export default function HowItWorks() {
           <li key={i} className="flex items-start gap-4 rounded-2xl bg-mist/70 p-5 md:flex-col md:gap-5 md:p-6">
             <span
               aria-hidden
-              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-navy font-display text-lg font-bold text-orange"
+              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-orange font-display text-lg font-bold text-navy"
             >
               {i + 1}
             </span>
